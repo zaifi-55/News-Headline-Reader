@@ -13,3 +13,4 @@ A simple Python app that fetches top headlines using NewsAPI and reads them alou
 3. Install deps: `pip install -r requirements.txt` (or `pip install requests python-dotenv pyttsx3`)
 4. Add `.env` file with `NEWSAPI_KEY=your_key_here`
 5. Run `python news_reader.py`
+
